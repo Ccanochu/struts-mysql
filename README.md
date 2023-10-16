@@ -1,3 +1,5 @@
+![someone](https://github.com/Ccanochu/struts-mysql/assets/63028873/6c357f74-f4ac-44c7-b962-45d6cb5b6611)
+
 # Proyecto CRUD de Usuarios con MySQL y Struts 1.3
 
 Este proyecto implementa un sistema CRUD (Crear, Leer, Actualizar, Eliminar) de usuarios utilizando Struts 1.3 y MySQL como base de datos.
