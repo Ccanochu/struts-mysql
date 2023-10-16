@@ -1,4 +1,4 @@
-![someone](https://github.com/Ccanochu/struts-mysql/assets/63028873/bcb06d1d-1d46-4ced-b1eb-004cd32d4c0f)
+![someone](https://github.com/Ccanochu/struts-mysql/assets/63028873/9f8254cd-818e-420d-b3d8-ccf6701c9ae4)
 
 # Proyecto CRUD de Usuarios con MySQL y Struts 1.3
 
