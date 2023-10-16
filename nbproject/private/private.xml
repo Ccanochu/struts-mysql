@@ -2,14 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/javarevolutions/projects/WebApplication2/web/form.jsp</file>
-            <file>file:/C:/javarevolutions/projects/WebApplication2/web/WEB-INF/struts-config.xml</file>
-            <file>file:/C:/javarevolutions/projects/WebApplication2/src/java/com/myapp/jdbc/ConexionBD.java</file>
-            <file>file:/C:/javarevolutions/projects/WebApplication2/src/java/com/myapp/struts/Formulario.java</file>
-            <file>file:/C:/javarevolutions/projects/WebApplication2/src/java/com/myapp/jdbc/UsuarioDAO.java</file>
-            <file>file:/C:/javarevolutions/projects/WebApplication2/web/MostrarDatos.jsp</file>
-            <file>file:/C:/javarevolutions/projects/WebApplication2/src/java/com/myapp/struts/ProcesarFormularioAction.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
